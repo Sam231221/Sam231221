@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://res.cloudinary.com/dcgrv6shk/image/upload/v1646906147/mediafiles/images/me5_io1ett.jpg" height="500" alt="sam231221" /> </p>
+<p align="left"> <img src="https://res.cloudinary.com/dcgrv6shk/image/upload/v1646906147/mediafiles/images/me5_io1ett.jpg" style="width: 100%; object-fit: cover; height:500px; " alt="sam231221" /> </p>
 
 # Hi 👋, I'm Software Developer(Full Stack)
 uses Python on Backend while HTML, CSS, and Javascript on Frontend. I am capable of building up Dynamic sites i.e Digital and Physical Based eCommerce Websites (Online Shopping, Business, Digital Products Marketing), Portfolio, and Blog Websites using one of the most popular Web-framework, Django. Besides, Programming Stuff I have been doing Video Editing, Sound designing, and editing, Graphics designing
