@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://res.cloudinary.com/dcgrv6shk/image/upload/v1646906879/mediafiles/images/me5_gep6l7.jpg" style="width: 100%;" alt="sam231221" /> </p>
 
 # Hi 👋, I'm Software Developer(Full Stack)
-uses Python on Backend while HTML, CSS, and Javascript on Frontend. I am capable of building up Dynamic sites i.e Digital and Physical Based eCommerce Websites (Online Shopping, Business, Digital Products Marketing), Chat apps, Portfolio, and Blog Websites using one of the most popular Web-framework, Django. Besides, Programming Stuff I have been doing Video Editing, Sound designing, and editing, Graphics designing
+uses Django on Backend while React and Bootstrap on Frontend. I am capable of building up Dynamic sites i.e Digital and Physical Based eCommerce Websites (Online Shopping, Business, Digital Products Marketing), Chat apps, Portfolio, and Blog Websites using one of the most popular Web-framework, Django. Besides, Programming Stuff I have been doing Video Editing, Sound designing, and editing, Graphics designing
 
 
 
