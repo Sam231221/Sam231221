@@ -3,17 +3,29 @@
 <img src="./assets/sambanner.png"></img>
 
 
+
 <p align="center">
   <a href="https://github.com/Sam231221"><img src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=1086ff&size=51&center=true&vCenter=true&width=640&height=45&lines=I+am+Frontend+Developer,;a+Backend+Developer;and+also+a+Devops+Engineer."></a>
 </p>
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/Sam231221)   -->
+![Snake animation](./assets/snake-animation.svg)
+
+
+<br/>
+<h1 align="center">Language and Tools</h1>
+
+![](https://skillicons.dev/icons?i=arduino,azure,bots,dynamodb,express,electron,git,graphql,heroku,js,ts,mongodb,netlify,nodejs,postgres,prisma,react,vscode,vercel,workers&perline=20) 
+
+
+<br/>
 
 <h1 align="center">Github Analytics</h1>
 
 ![GitHub metrics](https://metrics.lecoq.io/Sam231221)  
 
 ![](https://activity-graph.herokuapp.com/graph?username=Sam231221&custom_title=Sam%27s%20Contribution%20Graph&theme=react-dark)
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam231221&theme=algolia&hide_border=true" />
