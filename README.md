@@ -14,7 +14,7 @@
 <br/>
 <h1 align="center">Language and Tools</h1>
 
-![](https://skillicons.dev/icons?i=arduino,azure,bots,dynamodb,express,electron,git,graphql,heroku,js,ts,mongodb,netlify,nodejs,postgres,prisma,react,vscode,vercel,workers&perline=20) 
+![](https://skillicons.dev/icons?i=django,aws,git,graphql,heroku,js,netlify,nodejs,postgres,prisma,react,vscode,docker,kubernetes,vercel&perline=20) 
 
 
 <br/>
