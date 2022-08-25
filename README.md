@@ -1,6 +1,6 @@
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
-![Software Developer](https://res.cloudinary.com/dcgrv6shk/image/upload/v1661411080/sambanner_cklhl6.png)
 
+<img src="./assets/sambanner.png"></img>
 
 
 <p align="center">
