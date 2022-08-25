@@ -6,6 +6,13 @@
 
 <p align="center">
   <a href="https://github.com/Sam231221"><img src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=1086ff&size=51&center=true&vCenter=true&width=640&height=45&lines=I+am+Frontend+Developer,;a+Backend+Developer;and+also+a+Devops+Engineer."></a>
+  
+  <p align="center">
+<a href="https://www.linkedin.com/in/sameer-shahi-345b5521a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameershahi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/johnwinston1237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameershahi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/thakuri.sameer_12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameershahi" height="30" width="40" /></a>
+</p>
+
 </p>
 
 ![Snake animation](./assets/snake-animation.svg)
@@ -39,6 +46,4 @@
 </p>
 
 
-
-# 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
