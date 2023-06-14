@@ -1,7 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-<img src="./assets/sambanner.png"></img>
-
 <p align="center">
   <a href="https://github.com/Sam231221"><img src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=1086ff&size=51&center=true&vCenter=true&width=640&height=45&lines=I+am+Frontend+Developer,;a+Backend+Developer;and+also+a+Devops+Engineer."></a>
   
@@ -17,15 +15,15 @@
 
 <br/>
 <br/>
-<h1 align="center">3 Facts</h1>
+
 <br/>
-😆 Fun Fact:  I didn't code for 6 months to be frontend-driven developer.
-<br/>
-<br/>
-😢 Sad Fact: I lost 2000+ Github Contributions.
+😆 Fun Fact:  6 months leave to marry JS.
 <br/>
 <br/>
-⚡ Interesting Fact:  I can cook delicious varities foods and serve you well.
+😢 Sad Fact: lost 5000+ Green Squares in Github.
+<br/>
+<br/>
+⚡ Interesting Fact:  He/Him Cooks
 <br/>
 <br/>
 <br/>
