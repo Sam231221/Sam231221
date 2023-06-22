@@ -1,4 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+<img src="./assets/sambanner.png"></img>
 
 <p align="center">
   <a href="https://github.com/Sam231221"><img src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=1086ff&size=51&center=true&vCenter=true&width=640&height=45&lines=I+am+Frontend+Developer,;a+Backend+Developer;and+also+a+Devops+Engineer."></a>
