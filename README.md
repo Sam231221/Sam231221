@@ -47,8 +47,6 @@
 
 <h1 align="center">Github Analytics</h1>
 
-![GitHub metrics](https://metrics.lecoq.io/Sam231221)
-
 ![](https://activity-graph.herokuapp.com/graph?username=Sam231221&custom_title=Sam%27s%20Contribution%20Graph&theme=react-dark)
 
 <p align="center">
