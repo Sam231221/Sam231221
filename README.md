@@ -21,9 +21,6 @@
 😆 Fun Fact:  6 months leave to marry JS.
 <br/>
 <br/>
-😢 Sad Fact: lost 5000+ Green Squares in Github.
-<br/>
-<br/>
 ⚡ Interesting Fact:  He/Him Cooks
 <br/>
 <br/>
